@@ -1,4 +1,4 @@
-# Java Application
+# Netty Sample
 
 ## Getting Started
 * Open project with IntelliJ
