@@ -1,1 +1,1 @@
-# Gradle Project Tamplate
+# Template of Gradle Project
