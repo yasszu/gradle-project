@@ -1,11 +1,16 @@
-# Netty Sample
+# Gradle Java Project
 
 ## Getting Started
-* Open project with IntelliJ
-* Refresh all external Project
-
-## Run
-### Start netty server
+1. It is need to install a [Java Development Kit (JDK) 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or later before run Gradle.
+1. Build project:
+    ```
     $ ./gradlew build
+    ```
+    
+1. Run main application:  
+    ```
     $ ./gradlew run
-    $ telnet localhost 8080
+    ```
+
+## Refs
+- [Gradle Docs](https://docs.gradle.org/current/userguide/userguide.html)
